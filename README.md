@@ -2,8 +2,8 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-## NAME : MOHAMED NIZAMUDDIN A
-## REG  NO: 212224040194
+## NAME : SUNDARESH K
+## REG  NO: 212225220111
 # AIM:
 To practice Linux Commands and Shell Scripting
 
